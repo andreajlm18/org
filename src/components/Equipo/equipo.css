@@ -1,0 +1,26 @@
+.equipo {
+    width: 100%;
+    padding: 32px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #D9F7E9;
+    position: relative;
+}
+
+.equipo-titulo {
+    font-size: 32px;
+    font-weight: 400;
+    padding-bottom: 24px;
+    display: inline-block;
+    border-bottom: 4px solid #6278F7;
+}
+
+.colaboradores {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.input-color{
+    position: absolute;
+    right: 50px;
+}
